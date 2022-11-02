@@ -1,3 +1,5 @@
+import time
+
 def awesome_func():
   x = 5
   while x != 0:
